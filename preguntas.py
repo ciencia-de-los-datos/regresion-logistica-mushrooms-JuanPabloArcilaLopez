@@ -120,7 +120,7 @@ def pregunta_03():
     """
 
     # Importe LogisticRegressionCV
-    from sklearn.linear_model import LogisticRegression
+    from sklearn.linear_model import LogisticRegressionCV
     # Importe OneHotEncoder
     from sklearn.preprocessing import OneHotEncoder
     # Importe Pipeline
